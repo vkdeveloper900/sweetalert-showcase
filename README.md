@@ -15,3 +15,12 @@ A simple guide to integrating **SweetAlert** into your web projects. This reposi
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/sweetalert-tutorial.git
+
+2. Open the HTML file in your browser to see the examples in action.
+Usage
+
+Simply copy the code snippets from the examples provided and integrate them into your projects.
+Customize the alerts based on your needs by adjusting the options like position, timer, and icon.
+Contributing
+
+Feel free to fork the repository and submit pull requests with improvements or additional features.
